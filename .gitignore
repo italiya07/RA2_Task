@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+*.egg-info/
+.eggs/
+build/
+dist/
+pip-wheel-metadata/
+
+# SQLite database files
+*.db
+*.sqlite3
+weather.db
+
+# Environment variables
+.env
+
+# Logs
+*.log
+logs/
+
+# pytest
+.cache/
+*.pytest_cache
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Docker
+*.dockerignore
+Dockerfile
+
+# Virtualenv
+.venv/
+.env/
+env/
