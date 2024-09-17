@@ -40,7 +40,7 @@ pip install -r requirements.txt
 The application uses SQLite as the database, and a list of preset cities needs to be populated in the database. To do this, run the `populate_Script.py` to populate the data:
 
 ```bash
-python scripts/populate_Script.py
+python populate_cities.py
 ```
 
 This script populates a table with predefined cities like Toronto, Vancouver, Montreal, etc.
